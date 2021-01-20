@@ -1,0 +1,170 @@
+﻿District_C	District_N	Population
+01	Bagamoyo	5000
+01	Bariadi	3455
+01	Chunya	13412
+01	Geita	83039
+01	Iramba	3285419
+01	Iringa	8352021
+01	Kalambo	3153731
+01	Karagwe	3017661
+01	Kibondo	12000
+01	Kilwa	10000
+01	Kinondoni	976785
+01	Kondoa	4699878
+01	Lushoto	8399
+01	Monduli	8942
+01	Mtwara	54894
+01	Njombe Urban	1247
+01	Nzega	1236
+01	Rombo	15497
+01	Shinyanga Urban	5878954
+01	Tarime	248979
+01	Tunduru	29841
+01	Ukerewe	20128
+02	Bukoba	8799
+02	Igunga	65984
+02	Ilala	4998
+02	Itilima	97974
+02	Kasulu	4515
+02	Kibaha	54878
+02	Kishapu	845187
+02	Korogwe	84187
+02	Lindi	81515
+02	Magu	78634
+02	Mbeya	16548
+02	Meru	321984
+02	Mpwapwa	3189
+02	Mufindi	64863
+02	Mwanga	54800
+02	Newala	798741
+02	Nyang'hwale	1269
+02	Serengeti	248
+02	Singida	21034
+02	Songea	515549
+02	Sumbawanga	12011
+02	Wanging'ombe	18498
+03	Arusha Urban	54984
+03	Iringa Urban	5485
+03	Kigoma	20253
+03	Kisarawe	5888
+03	Kongwa	3984
+03	Kyela	6648
+03	Makete	15469
+03	Manyoni	2844
+03	Masasi	4484
+03	Mbinga	549846
+03	Mbogwe	18798
+03	Meatu	21878
+03	Muheza	5487845
+03	Muleba	484118
+03	Musoma	54815
+03	Nachingwea	48761
+03	Nkasi	548
+03	Nyamagana	8849
+03	Same	548451
+03	Shinyanga	5848
+03	Temeke	581218
+03	Uyui	8415
+04	Biharamulo	84815
+04	Bukombe	24863
+04	Bunda	5255
+04	Chamwino	2844
+04	Kahama	4484
+04	Karatu	549846
+04	Kilolo	18798
+04	Kwimba	21878
+04	Liwale	5487845
+04	Maswa	484118
+04	Mkuranga	54815
+04	Moshi	48761
+04	Njombe	548
+04	Rungwe	8849
+04	Singida Urban	548451
+04	Songea Urban	5848
+04	Sumbawanga Urban	581218
+04	Tandahimba	8415
+04	Tanga Urban	84815
+04	Ulanga	24863
+04	Urambo	5255
+05	Busega	65984
+05	Chato	4998
+05	Dodoma Urban	97974
+05	Hai	4515
+05	Ikungi	54878
+05	Ileje	845187
+05	Ludewa	84187
+05	Mafinga Township Authority	81515
+05	Kahama Township Authority	78634
+05	Morogoro Urban	16548
+05	Mtwara Urban	321984
+05	Musoma Urban	3189
+05	Namtumbo	64863
+05	Ngara	54800
+05	Ngorongoro	798741
+05	Ruangwa	1269
+05	Rufiji	248
+05	Sengerema	21034
+05	Sikonge	515549
+05	Uvinza	12011
+06	Arusha	18498
+06	Bahi	54984
+06	Buhigwe	5485
+06	Bukoba Urban	20253
+06	Handeni	5888
+06	Ilemela	65984
+06	Lindi Urban	4998
+06	Mafia	97974
+06	Makambako Township Authority	4515
+06	Mbozi	54878
+06	Mkalama	845187
+06	Moshi Urban	84187
+06	Mvomero	81515
+06	Nanyumbu	78634
+06	Nyasa	16548
+06	Rorya	321984
+06	Tabora Urban	3189
+07	Butiam	64863
+07	Chemba	54800
+07	Kakonko	798741
+07	Kaliua	1269
+07	Kibaha Urban	248
+07	Kilindi	21034
+07	Longido	515549
+07	Masasi  Township Authority	12011
+07	Mbarali	18498
+07	Missenyi	54984
+07	Misungwi	5485
+07	Siha	20253
+08	Mkinga	5888
+08	Kasulu Township Authority	5000
+08	Kyerwa	3455
+08	Mbeya Urban	13412
+09	Korogwe Township Authority	83039
+09	Momba	3285419
+10	Handeni Mji	8352021
+10	Tunduma	3153731
+04	Kigoma  Urban	3017661
+02	Morogoro	12000
+03	Kilombero	10000
+01	Kilosa	21034
+07	Gairo	515549
+02	Mpanda	12011
+03	Mlele	18498
+01	Mpanda Urban	54984
+05	Pangani	5485
+01	Babati	20253
+02	Hanang	5888
+03	Mbulu	65984
+04	Simanjiro	4998
+05	Kiteto	97974
+06	Babati Urban	4515
+01	Chake Chake	54878
+01	Kaskazini A	845187
+01	Kati	84187
+01	Magharibi	81515
+01	Wete	78634
+02	Kaskazini B	16548
+02	Kusini	321984
+02	Micheweni	3189
+02	Mjini	64863
+02	Mkoani	54800
